@@ -5,6 +5,6 @@ public class HelloWorld{
 	}
 	
 	public String goodbye() {
-		return "Goodbye";
+		return "More Goodbye";
 	}
 }
